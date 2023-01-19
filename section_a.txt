@@ -1,0 +1,39 @@
+1. 
+i) Database is a collection of related tables.
+
+ii) Database Management System is a software used to create and manage databases.
+
+iii) SQL is structured query language which is used to create, read, update and delete information in databases.
+
+iv) Foreign Key is a candidate key that shows a relationship between tables.
+
+v) Primary Key is a candidate key that uniquely identifies a record in a relation.
+
+
+2.
+A database reduces data redundancy since it uses Primary Keys and Foreign Keys.
+A database is convinient since information is easily accessed and modified.
+A database is secure since important information access is restricted to specific people.
+A database has data integrity.
+A database saves time and resources since all data is kept in one place and does not take one a long time accessing specific information.
+
+
+3.
+MS Access database
+MySQL database
+Posgresql database
+Oracle database
+Maria Database
+
+Used to store large sums of data in:
+Banks 
+Shopping Malls
+School Libraries
+Telecommunication companies
+Hospitals
+
+
+4.
+One to one relationship 
+One to many relationship
+Many to many relationship
